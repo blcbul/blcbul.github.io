@@ -1,1 +1,3 @@
-console.log('HOLA BIENVCENIDO A MI CARNAL');
+const saludo = () => {
+    alert('Holiwiuuusss');
+}
